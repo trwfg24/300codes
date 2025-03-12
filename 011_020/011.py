@@ -11,7 +11,7 @@ Một số nguyên dương n.
 Đầu ra:
 
 Giai thừa của số nguyên dương n.
-Các bước thực hiện:
+Các bước thực hiện:q
 
 
 Định nghĩa hàm factorial_recursive(n):
